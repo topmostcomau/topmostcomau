@@ -8,3 +8,11 @@ url: "http://topmost.com.au"
 
 # Build settings
 markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","Dockerfile","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
+
+
