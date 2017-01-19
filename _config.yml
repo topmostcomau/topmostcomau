@@ -1,0 +1,10 @@
+# Jekyll _config
+title: Welcome to topmost.com.au
+email: topmost.com.au@gmail.com
+description: >
+  Topmost.com.au - Don't miss out on cool stuffs.
+baseurl: ""
+url: "http://topmost.com.au"
+
+# Build settings
+markdown: kramdown

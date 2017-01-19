@@ -1,2 +1,5 @@
-# topmostcomau
-documentation
+# Local testing
+
+`./start.sh`
+
+
