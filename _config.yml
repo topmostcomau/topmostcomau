@@ -15,4 +15,9 @@ exclude: ["less","Dockerfile","README.md"]
 
 gems: [jekyll-paginate, jekyll-feed]
 
+collections:
+  docs:
+    permalink: /:collection/
+    output: true
+
 

@@ -3,13 +3,20 @@
 
 {% include head.html %}
 
-<body id="page-top">
+<body>
+  {% include nav.html %}
 
-{% include nav.html %}
+  <div id="post" class="container">
+    <div class="row">
 
-  {{ content }}
 
-  {% include scripts.html %}
+      {{ content }}
+
+    </div>
+
+  </div>
+
+  {% include footer.html %} {% include scripts.html %}
 </body>
 
 </html>
