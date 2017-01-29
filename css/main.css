@@ -46,7 +46,12 @@ body {
 
 .jumbotron-5 {
     background-color:  #FDFFFF;
-    color: #000;
+    color: #333;
+}
+
+.footer-link:hover {
+  color: #FFF;
+  text-decoration: underline;
 }
 
 .footer-link {
@@ -57,9 +62,10 @@ footer {
     color: #fff;
 }
 
+
 footer .footer-above {
-    padding-top: 20px;
     background-color: #004080;
+    padding: 25px;
 }
 
 footer .footer-below {
@@ -105,4 +111,9 @@ th{
 
 td{
     border:1px solid #000000;
+}
+
+.borderless li {
+  border: 0 none;
+  font-size: 24px;
 }
