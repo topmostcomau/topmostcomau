@@ -20,5 +20,4 @@ collections:
     permalink: /:collection/
     output: true
 
-google_analytics: UA-82830824-1
 
