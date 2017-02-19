@@ -19,5 +19,7 @@ collections:
   docs:
     permalink: /:collection/
     output: true
-
+  posts:
+    permalink: /:categories/:year/:month/:day/:title.html
+    output: true
 

@@ -1,6 +1,5 @@
 ---
 title: Terms and conditions
-permalink: terms.html
 layout: page
 ---
 
