@@ -1,15 +1,15 @@
 ---
 layout:     default
 title:      "Login to topmost.com.au as guest"
-subtitle:   "Try out topmost.com.au application as guest."
-description: "Try out topmost.com.au application as guest."
+subtitle:   "Try out topmost.com.au  as guest."
+description: "Try out topmost.com.au  as guest."
 date:       2017-02-18 12:00:00
 author:     "Topmost.com.au Team"
 header-img: "images/logo_black.png"
 categories: news
 ---
 
-# Try topmost.com.au application
+# Try topmost.com.au 
 Try the topmost application in **two clicks**
 
  - Go to [login page](https://app.topmost.com.au/login) 
