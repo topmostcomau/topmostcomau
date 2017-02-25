@@ -19,7 +19,7 @@ body {
     margin-bottom: 0px;
 }
 
-.jumbotron-1 {
+.jumbotron-welcome {
     background-color:#18BC9C;
     color: #fff;
 }
@@ -30,23 +30,29 @@ body {
 }
 
 .jumbotron-2 {
-    background-color: #265C00;
+    background-color: #ccc;
     color: #fff;
 }
 
 .jumbotron-3 {
-    background-color: #68A225;
+    background-color: #5BC8AC;
     color: #fff;
 }
 
 .jumbotron-4 {
-    background-color:  #B3DE81;
+    background-color:  #98DBC6;
     color: #000;
 }
 
-.jumbotron-5 {
+.jumbotron-values {
     background-color:  #FDFFFF;
     color: #333;
+}
+
+.jumbotron-check-it-out {
+    background-color: #e6d72a;;
+    color: #333;    
+
 }
 
 .footer-link:hover {
