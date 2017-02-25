@@ -20,7 +20,7 @@ RUN \
 
 RUN gem install jekyll --no-ri --no-rdoc
 
-RUN gem install jekyll-sitemap jekyll-feed jekyll-paginate
+RUN gem install jekyll-sitemap jekyll-feed jekyll-paginate jekyll-seo-tag
 
 RUN apt-get install wget
 # ADD nginx.conf /etc/nginx/nginx.conf
