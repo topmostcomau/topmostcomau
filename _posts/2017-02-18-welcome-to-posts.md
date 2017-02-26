@@ -1,6 +1,6 @@
 ---
 layout:     default
-title:      "Welcome to topmost.com.au"
+title:      "Welcome to topmost australia"
 subtitle:   "News and update from topmost."
 description: "Welcome to topmost.com.au - News and updates"
 date:       2017-02-18 12:00:00
@@ -10,7 +10,7 @@ categories: news
 ---
 
 
-# Welcome to topmost.com.au
+# Welcome to topmost
 Thank you for visiting **topmost.com.au**. 
 Topmost provide one of the most comprehensive databse of questions for school going students.
 
