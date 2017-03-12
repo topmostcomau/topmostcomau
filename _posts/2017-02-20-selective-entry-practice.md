@@ -45,7 +45,7 @@ Competition is tough to get admission to these schools. Regular practice can mak
 
 ## Why use topmost?
  - Large pool of questions.
- - Test are prepared from random questions picked from a large pool.
+ - Tests are prepared from random questions picked from a large pool.
  - Time restricted just like the exam.
  - You can review the result and take expert opinion later if needed.
  - Track the progress real time.
