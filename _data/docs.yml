@@ -1,8 +1,3 @@
 - title: Getting Started
   docs:
-  - folderstructure
-  - fileformatmodules  
-  - fileformatchapters    
-  - fileformatquestions   
-  - templating     
-  - templateexample1
+  - example     

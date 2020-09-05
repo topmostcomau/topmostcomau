@@ -12,8 +12,5 @@ categories: news
 
 # Welcome to topmost
 Thank you for visiting **topmost.com.au**. 
-Topmost provide one of the most comprehensive databse of questions for school going students.
-
-Our goal is to provide quality practice material for students. 
 
 Please send us your ideas, suggestions, opinions etc to topmost.com.au @ gmail.com
